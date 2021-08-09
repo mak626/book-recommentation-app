@@ -1,0 +1,9 @@
+.books {
+  padding: 1rem;
+  background: linear-gradient(to right, #ffff00, #ff7300);
+  margin: 0px;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+}

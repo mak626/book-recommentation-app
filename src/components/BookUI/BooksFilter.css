@@ -1,0 +1,32 @@
+.genre {
+  align-items: center;
+  margin: 20px 0px;
+  padding: 0px 1.9rem;
+}
+
+.genre h2 {
+  margin: 0.8rem 0px;
+  text-align: center;
+  color: black;
+}
+
+.genre select {
+  width: 100%;
+  height: 100%;
+  font-size: 1.2rem;
+  background-color: #6a040f;
+  border: 6px solid transparent;
+  color: white;
+  font-weight: 600;
+  border-radius: 4px;
+  padding: 0.2rem;
+}
+
+.genre select:hover {
+  background-color: #b30617;
+}
+
+.genre option {
+  font-size: 1.2rem;
+  font-weight: 400;
+}

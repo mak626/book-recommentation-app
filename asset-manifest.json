@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/book-recommentation-app/static/css/main.6c0381be.chunk.css",
-    "main.js": "/book-recommentation-app/static/js/main.3319b2dc.chunk.js",
-    "main.js.map": "/book-recommentation-app/static/js/main.3319b2dc.chunk.js.map",
+    "main.js": "/book-recommentation-app/static/js/main.a8bc37b6.chunk.js",
+    "main.js.map": "/book-recommentation-app/static/js/main.a8bc37b6.chunk.js.map",
     "runtime-main.js": "/book-recommentation-app/static/js/runtime-main.1569e670.js",
     "runtime-main.js.map": "/book-recommentation-app/static/js/runtime-main.1569e670.js.map",
     "static/js/2.b94f6c6a.chunk.js": "/book-recommentation-app/static/js/2.b94f6c6a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1569e670.js",
     "static/js/2.b94f6c6a.chunk.js",
     "static/css/main.6c0381be.chunk.css",
-    "static/js/main.3319b2dc.chunk.js"
+    "static/js/main.a8bc37b6.chunk.js"
   ]
 }

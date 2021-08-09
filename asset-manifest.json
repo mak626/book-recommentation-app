@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/book-recommendation-app/static/css/main.aedbec77.chunk.css",
+    "main.js": "/book-recommendation-app/static/js/main.3319b2dc.chunk.js",
+    "main.js.map": "/book-recommendation-app/static/js/main.3319b2dc.chunk.js.map",
+    "runtime-main.js": "/book-recommendation-app/static/js/runtime-main.2776b17b.js",
+    "runtime-main.js.map": "/book-recommendation-app/static/js/runtime-main.2776b17b.js.map",
+    "static/js/2.b94f6c6a.chunk.js": "/book-recommendation-app/static/js/2.b94f6c6a.chunk.js",
+    "static/js/2.b94f6c6a.chunk.js.map": "/book-recommendation-app/static/js/2.b94f6c6a.chunk.js.map",
+    "index.html": "/book-recommendation-app/index.html",
+    "static/css/main.aedbec77.chunk.css.map": "/book-recommendation-app/static/css/main.aedbec77.chunk.css.map",
+    "static/js/2.b94f6c6a.chunk.js.LICENSE.txt": "/book-recommendation-app/static/js/2.b94f6c6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2776b17b.js",
+    "static/js/2.b94f6c6a.chunk.js",
+    "static/css/main.aedbec77.chunk.css",
+    "static/js/main.3319b2dc.chunk.js"
+  ]
+}
